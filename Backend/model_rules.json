@@ -1,0 +1,191 @@
+{
+  "features": [
+    "air_g",
+    "energi_kal",
+    "protein_g",
+    "lemak_g",
+    "karbo_g",
+    "serat_g",
+    "kalsium_mg",
+    "besi_mg",
+    "natrium_mg",
+    "kalium_mg",
+    "seng_mg",
+    "vit_c_mg"
+  ],
+  "importances": {
+    "air_g": 0.05,
+    "energi_kal": 0.15,
+    "protein_g": 0.40,
+    "lemak_g": 0.05,
+    "karbo_g": 0.05,
+    "serat_g": 0.02,
+    "kalsium_mg": 0.18,
+    "besi_mg": 0.08,
+    "natrium_mg": 0.01,
+    "kalium_mg": 0.01,
+    "seng_mg": 0.00,
+    "vit_c_mg": 0.00
+  },
+  "category_recommendations": {
+    "Buah": [
+      {
+        "kode": "ER001",
+        "nama": "Alpukat, segar (Avocado, fresh)",
+        "kategori": "Buah",
+        "kkal": 85.0,
+        "protein": 0.9,
+        "kalsium": 10.0,
+        "zatBesi": 0.9,
+        "vitC": 13.0,
+        "score": 0.0295
+      },
+      {
+        "kode": "ER005",
+        "nama": "Arbai, segar (Arbein, fresh)",
+        "kategori": "Buah",
+        "kkal": 37.0,
+        "protein": 0.8,
+        "kalsium": 28.0,
+        "zatBesi": 0.8,
+        "vitC": 60.0,
+        "score": 0.0201
+      },
+      {
+        "kode": "ER002",
+        "nama": "Anggur hutan, segar",
+        "kategori": "Buah",
+        "kkal": 30.0,
+        "protein": 0.5,
+        "kalsium": 39.0,
+        "zatBesi": 1.1,
+        "vitC": 3.0,
+        "score": 0.0207
+      }
+    ],
+    "Ikan/Kerang/Udang dll": [
+      {
+        "kode": "GP054",
+        "nama": "Abon ikan",
+        "kategori": "Ikan/Kerang/Udang dll",
+        "kkal": 435.0,
+        "protein": 27.2,
+        "kalsium": 55.0,
+        "zatBesi": 1.9,
+        "vitC": 0.0,
+        "score": 0.2300
+      }
+    ],
+    "Kacang-Kacangan": [
+      {
+        "kode": "CP018",
+        "nama": "Ampas tahu, kering",
+        "kategori": "Kacang-Kacangan",
+        "kkal": 414.0,
+        "protein": 26.6,
+        "kalsium": 19.0,
+        "zatBesi": 4.0,
+        "vitC": 0.0,
+        "score": 0.2183
+      },
+      {
+        "kode": "CP016",
+        "nama": "Ampas tahu, mentah",
+        "kategori": "Kacang-Kacangan",
+        "kkal": 67.0,
+        "protein": 5.0,
+        "kalsium": 460.0,
+        "zatBesi": 1.0,
+        "vitC": 0.0,
+        "score": 0.1542
+      },
+      {
+        "kode": "CP017",
+        "nama": "Ampas tahu kukus",
+        "kategori": "Kacang-Kacangan",
+        "kkal": 75.0,
+        "protein": 4.1,
+        "kalsium": 203.0,
+        "zatBesi": 1.3,
+        "vitC": 0.0,
+        "score": 0.0881
+      }
+    ],
+    "Daging": [
+      {
+        "kode": "FR003",
+        "nama": "Anak sapi, daging, sedang, segar (Veal, meat, fresh)",
+        "kategori": "Daging",
+        "kkal": 190.0,
+        "protein": 19.1,
+        "kalsium": 11.0,
+        "zatBesi": 2.9,
+        "vitC": 0.0,
+        "score": 0.1255
+      },
+      {
+        "kode": "FR002",
+        "nama": "Anak sapi, daging, kurus, segar (Veal, meat, high fat, fresh)",
+        "kategori": "Daging",
+        "kkal": 174.0,
+        "protein": 19.6,
+        "kalsium": 11.0,
+        "zatBesi": 2.9,
+        "vitC": 0.0,
+        "score": 0.1227
+      },
+      {
+        "kode": "FR001",
+        "nama": "Anak sapi, daging, gemuk, segar (Veal, meat, high fat, fresh)",
+        "kategori": "Daging",
+        "kkal": 184.0,
+        "protein": 18.8,
+        "kalsium": 10.0,
+        "zatBesi": 2.2,
+        "vitC": 0.0,
+        "score": 0.1208
+      }
+    ],
+    "Sayuran": [
+      {
+        "kode": "DR003",
+        "nama": "Andaliman, segar",
+        "kategori": "Sayuran",
+        "kkal": 99.0,
+        "protein": 4.6,
+        "kalsium": 383.0,
+        "zatBesi": 2.9,
+        "vitC": 15.0,
+        "score": 0.1470
+      },
+      {
+        "kode": "DR002",
+        "nama": "Ale,toge, segar",
+        "kategori": "Sayuran",
+        "kkal": 37.0,
+        "protein": 4.4,
+        "kalsium": 50.0,
+        "zatBesi": 2.0,
+        "vitC": 46.0,
+        "score": 0.0410
+      },
+      {
+        "kode": "DR001",
+        "nama": "Akar tonjong, segar (Lotus root, fresh)",
+        "kategori": "Sayuran",
+        "kkal": 45.0,
+        "protein": 1.1,
+        "kalsium": 72.0,
+        "zatBesi": 1.3,
+        "vitC": 2.0,
+        "score": 0.0359
+      }
+    ]
+  },
+  "global_average_score": 0.1245,
+  "model_metadata": {
+    "total_samples": 1146,
+    "features_count": 12,
+    "r2_score_estimate": 0.89
+  }
+}
